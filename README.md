@@ -54,7 +54,7 @@ I focus on building **end-to-end, real-world projects** that are scalable, pract
 ### 🔹 Power BI
 - **Blinkit Business Sales Analysis**  
   🔗 GitHub: https://github.com/shivaprasad6757/Blinkit-Business-Sales-Analysis-PowerBI-project  
-  🔗 LinkedIn: Available
+  🔗 LinkedIn: https://www.linkedin.com/posts/shivaprasad57_blinkit-business-sales-analysis-powerbi-project-activity-7375124668191748096-mOYN?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkIYssBFrUyTFwBIXlwLPFrZ3XVavkXF90
 
 ### 🔹 OpenCV
 - **Dynamic Motion Detection and Tracking**  
